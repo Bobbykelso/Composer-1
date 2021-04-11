@@ -1,11 +1,9 @@
 <?php
-namespace Wcs;
+namespace App\Wcs;
 
 class Hello 
 {
     public function talk() {
-        $world = "Hello World!";
+        return "Hello World!";
     }
-
-
 }
