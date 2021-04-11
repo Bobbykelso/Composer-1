@@ -1,0 +1,11 @@
+{
+    "name": "barth/quetes1",
+    "description": "quete 1 composer",
+    "authors": [
+        {
+            "name": "Bobbykelso",
+            "email": "barth.aurelien182@gmail.com"
+        }
+    ],
+    "require": {}
+}
